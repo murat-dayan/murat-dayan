@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Dayan</h1>
-<h3 align="center">An Android developer from turkey</h3>
+<h3 align="center">An Android developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
