@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muratdayan359](https://medium.com/@muratdayan359)
 
-- 💬 Ask me about **Kotlin,React-Native,Flutter for Android**
+- 💬 Ask me about **Kotlin and React-Native for Android**
 
 - 📫 How to reach me **muratdayan359@gmail.com**
 
